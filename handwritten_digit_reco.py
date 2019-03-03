@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 31 20:25:43 2019
 
-@author: Tushar
 """
 
 from keras.datasets import mnist
